@@ -1,0 +1,28 @@
+{
+  "name": "change-console",
+  "version": "1.0.0",
+  "description": "改变console行为",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Licodeao/Change-Console.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Licodeao/Change-Console/issues"
+  },
+  "homepage": "https://github.com/Licodeao/Change-Console#readme",
+  "dependencies": {
+    "@babel/core": "^7.22.5",
+    "@babel/generator": "^7.22.5",
+    "@babel/parser": "^7.22.5",
+    "@babel/template": "^7.22.5",
+    "@babel/traverse": "^7.22.5",
+    "@babel/types": "^7.22.5"
+  }
+}
